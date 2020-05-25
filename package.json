@@ -1,0 +1,9 @@
+{
+  "name": "strapi-blog",
+  "version": "1.0",
+  "description": "learn strapi js",
+  "main": "index.js",
+  "repository": "https://github.com/nikesuputra/Strapi-Blog.git",
+  "author": "nikesuputra <wayan.suputra@hostinger.com>",
+  "license": "MIT"
+}
